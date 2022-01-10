@@ -1,0 +1,5 @@
+matplotlib==3.4.3
+pytorch3d==0.6.0
+torch==1.10.0
+tqdm==4.62.3
+trimesh==3.9.35
