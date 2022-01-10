@@ -1,5 +1,3 @@
-import warnings
-warnings.filterwarnings("ignore", category=FutureWarning)
 from SynDatGen import Model,Render,Labels,IO
 import pathlib
 import os
