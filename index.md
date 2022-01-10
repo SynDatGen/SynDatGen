@@ -11,16 +11,16 @@ Subfolders of input folder with 3D data will be used as labels and exported in .
 
 ### UI
 ***Loading 3D files***\
-![Loading 3D files](UI/Loading%20models.png)\
+![Loading 3D files](UI/Loading%20models.png)
 
 ***Generating dataset***\
-![Generating dataset](UI/Generating%20dataset.png)\
+![Generating dataset](UI/Generating%20dataset.png)
 
 ***Output folder***\
-![Output folder](UI/output_folder.png)\
+![Output folder](UI/output_folder.png)
 
 ***Labels sample***\
-![Labels](UI/labels.png)\
+![Labels](UI/labels.png)
 
 
 ### Using synthetic data in image classification system
