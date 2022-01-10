@@ -13,13 +13,13 @@ Subfolders of input folder with 3D data will be used as labels and exported in .
 
 ### UI
 *Loading 3D files*
-![Loading 3D files](https://github.com/SynDatGen/SynDatGen/blob/gh-pages/UI/Loading%20models.png)
+![Loading 3D files](UI/Loading%20models.png)
 *Generating dataset*
-![Generating dataset](https://github.com/SynDatGen/SynDatGen/blob/gh-pages/UI/Generating%20dataset.png)
+![Generating dataset](UI/Generating%20dataset.png)
 *Output folder*
-![Output folder](https://github.com/SynDatGen/SynDatGen/blob/gh-pages/UI/output_folder.png)
+![Output folder](UI/output_folder.png)
 *Labels sample*
-![Labels](https://github.com/SynDatGen/SynDatGen/blob/gh-pages/UI/labels.png)
+![Labels](UI/labels.png)
 
 
 ### Using synthetic data in image classification system
