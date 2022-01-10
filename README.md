@@ -27,7 +27,7 @@ python3 main.py
 |:---------|:---------|:------|:------|
 |-i --input|input folder of file|in|in|
 |-o --out|output folder|out|out|
-|-s --size|image size|128| 
+|-s --size|image size|128|128|
 |-c --colors|color(s)|"red green blue"|"none"|
 |-d --distance|distance(s) from camera to 3D model|"1.5 2.7"|"1.7"|
 |-e --elevation|elevation angle(s) of 3D model|"0 45 90"|0|
@@ -51,3 +51,6 @@ python3 main.py
 * .obj
 * .stl
 * .off
+
+#### ⚡Structure⚡
+![classes](https://github.com/SynDatGen/SynDatGen/blob/main/classes_SynDatGen.png)
