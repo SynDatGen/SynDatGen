@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# SynDatGen
+## Synthetic data generator for machine learning
+### Make datasets for image recognition systems from 3D models
+Enhance existing datasets with synthetic data to improve accuracy of your models.
+Or simply create new datasets from scratch and focus on your model instead of looking out for data.
 
-You can use the [editor on GitHub](https://github.com/SynDatGen/SynDatGen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Functionality
+Convert 3D (.obj, .stl and .off) models to images for image recognition/classification systems. 
+Software renders each model from different camera elevation angle, distance,rotation and color of the object.
+Subfolders of input folder with 3D data will be used as labels and exported in .json format.
 
-### Markdown
-Test1
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### UI
+*Loading 3D files*
+![Loading 3D files](https://github.com/SynDatGen/SynDatGen/blob/gh-pages/UI/Loading%20models.png)
+*Generating dataset*
+![Generating dataset](https://github.com/SynDatGen/SynDatGen/blob/gh-pages/UI/Generating%20dataset.png)
+*Output folder*
+![Output folder](https://github.com/SynDatGen/SynDatGen/blob/gh-pages/UI/output_folder.png)
+*Labels sample*
+![Labels](https://github.com/SynDatGen/SynDatGen/blob/gh-pages/UI/labels.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Using synthetic data in image classification system
+Example of using mixing real data with synthetic data generated with SynDatGen
+[Synthetic_Data](https://colab.research.google.com/drive/1SaZaPVJGgoNMRPobCiwJ9i-LG4hbE2Ti#scrollTo=9SGt3EWw_syG)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SynDatGen/SynDatGen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### PRO VERSION
+Pro version with GUI and multiporcessing support is avaliable at [tomahawk-software.solutions](tomahawk-software.solutions)
+Free for Educational Institutions and students. 
