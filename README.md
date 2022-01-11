@@ -1,4 +1,4 @@
-# SynDatGen
+# [SynDatGen](syndatgen.org)
 ## Synthetic data generator for machine learning
 ### Make datasets for image recognition systems from 3D models
 
