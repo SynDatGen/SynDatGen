@@ -28,5 +28,5 @@ Example of mixing real data with synthetic generated with SynDatGen\
 [Colab Notebook](https://colab.research.google.com/drive/1SaZaPVJGgoNMRPobCiwJ9i-LG4hbE2Ti#scrollTo=9SGt3EWw_syG)
 
 ### PRO VERSION
-Pro version with GUI and multiporcessing support is avaliable at [tomahawk-software.solutions](https://tomahawk-software.solutions)/
+Pro version with GUI and multiporcessing support is avaliable at [Tomahawk Software Solutions](https://tomahawk-software.solutions)/
 Free for Educational Institutions and students!
