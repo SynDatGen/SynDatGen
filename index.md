@@ -25,10 +25,11 @@ Subfolders of input folder with 3D data will be used as labels and exported in .
 
 ### Using synthetic data in image classification system
 Example of mixing real data with synthetic generated with SynDatGen\
-[Colab Experiment](https://colab.research.google.com/drive/1SaZaPVJGgoNMRPobCiwJ9i-LG4hbE2Ti#scrollTo=9SGt3EWw_syG)
+[Colab Experiment](https://colab.research.google.com/drive/1SaZaPVJGgoNMRPobCiwJ9i-LG4hbE2Ti)
 
-### Try in Colab
-[SynDatGen Colab Version](https://colab.research.google.com/drive/1gbUGjm5ZAXtcPgERu9FR2jAYC16dpSA0?usp=sharing)
+### Colab Version
+Run in Google Colab if you don't have a powerful GPU
+[SynDatGen Colab Version](https://colab.research.google.com/drive/1gbUGjm5ZAXtcPgERu9FR2jAYC16dpSA0)
 
 ### PRO VERSION
 Pro version with GUI and multiporcessing support is avaliable at [Tomahawk Software Solutions](https://tomahawk-software.solutions)\
