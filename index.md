@@ -1,4 +1,4 @@
-## Make datasets for image recognition systems from 3D models
+# Generate datasets for image recognition systems from 3D models
 Enhance existing datasets with synthetic data to improve accuracy of your models.
 Or simply create new datasets from scratch and focus on your model instead of looking out for data.
 
