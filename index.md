@@ -27,18 +27,18 @@ Subfolders of input folder with 3D data will be used as labels and exported in .
 ***Example of mixing real data with synthetic generated with SynDatGen***\
 
 **Real dataset**\
-Sample data set from VOC2012 
-About 500 images for each class
-![Real_data](Results/real_data.png)
+Sample data set from VOC2012\
+About 500 images for each class\
+![Real_data](Results/real_data.png)\
 **Enhanced dataset**\
-Dataset has been enhanced with SynDatGen
+Dataset has been enhanced with SynDatGen\
 ![enhanced_data](Results/enhanced_data.png)
 **Results**\
-Relusts of enhacing dataset with synthetic data
-![results](Results/real_vs_enhanced.png)
+Relusts of enhacing dataset with synthetic data\
+![results](Results/real_vs_enhanced.png)\
 **Full experiment**\
-Experiment can be reproduced and validated here:
-[Colab Experiment](https://colab.research.google.com/drive/1SaZaPVJGgoNMRPobCiwJ9i-LG4hbE2Ti)
+Experiment can be reproduced and validated here:\
+[Colab Experiment](https://colab.research.google.com/drive/1SaZaPVJGgoNMRPobCiwJ9i-LG4hbE2Ti)\
 
 ### Colab Version
 Run in Google Colab if you don't have a powerful GPU
