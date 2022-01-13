@@ -32,7 +32,7 @@ About 500 images for each class\
 ![Real_data](Results/real_data.png)\
 **Enhanced dataset**\
 Dataset has been enhanced with SynDatGen\
-![enhanced_data](Results/enhanced_data.png)
+![enhanced_data](Results/enhanced_data.png)\
 **Results**\
 Relusts of enhacing dataset with synthetic data\
 ![results](Results/real_vs_enhanced.png)\
