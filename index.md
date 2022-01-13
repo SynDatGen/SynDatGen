@@ -45,5 +45,6 @@ Run in Google Colab if you don't have a powerful GPU\
 [SynDatGen Colab Version](https://colab.research.google.com/drive/1gbUGjm5ZAXtcPgERu9FR2jAYC16dpSA0)
 
 ### PRO VERSION
-Pro version with GUI and multiporcessing support is avaliable at\ [Tomahawk Software Solutions](https://tomahawk-software.solutions)\
+Pro version with GUI and multiporcessing support is avaliable at\ 
+[Tomahawk Software Solutions](https://tomahawk-software.solutions)\
 Free for Educational Institutions and students!
